@@ -2,8 +2,8 @@
 Name - Sneh Atulbhai Khanpara
 
 ### 🎓 Academic Profile
-- **Branch:** [ B.Tech Computer Science & Engineering(artificial intelligence and machine learning )]
-- **Year:** [e.g., First Year]
+- **Branch:**  B.Tech Computer Science & Engineering(artificial intelligence and machine learning 
+- **Year:**  First Year
 - **Institution:** VIT University
 
 ### 🎯 Learning Goals
